@@ -157,7 +157,7 @@ https://github.com/zhaoqingqin97/markdown_learning   "This is a automatic Link"
 
 
 <!-- image by link -->
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of daftpunktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 
 <!-- emoji -->
