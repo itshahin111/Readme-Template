@@ -1,25 +1,28 @@
 <!-- markDown Tutorial...and this is comments in readme -->
 
-Shahin Alam<br>
+Shahin<br>
 
 This is New Line
 
 <!-- underline its Horizontal Rule -->
+# Underline it`s Horizontal Rule 
 ---
 
 
 <!-- this is heading like thml <h1>,<h2>.... -->
-# Shahin Alam
+# This is heading like thml <h1>,<h2>....
 
-## Shahin Alam
+# Shahin 
 
-### Shahin Alam
+## Shahin 
 
-#### Shahin Alam
+### Shahin 
 
-##### Shahin Alam
+#### Shahin 
 
-###### Shahin Alam
+##### Shahin 
+
+###### Shahin 
 
 
 
@@ -33,17 +36,20 @@ _this is italic text by markdown_
 __this is Bold Text__
 
 <!-- strikethrough -->
-<del>this delete</del>
+# Strikethrough
+<del>this delete tag</del>
 
 ~~this text delete by markdown~~
 
 <!-- inline code block -->
+# Inline code block
 `this is inline text`
 `<h1>this is inline for code</h1>`
 
 
 
 <!-- multiple line code Block -->
+#  Multiple line code block
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -84,6 +90,8 @@ console.log
 
 
 <!-- List -->
+# List
+# Order list 
 <!-- this is Order list -->
 <ol>
 <li>this is an order list</li>
@@ -94,6 +102,7 @@ console.log
 
 
 <!--order list by markdown -->
+# Order list by markdown 
 1. This is an ordered list following a paragraph.
 2. This is an Ordered list following a paragraph2.
 
@@ -105,6 +114,7 @@ console.log
 4. And this is another one.
 
 <!-- Unordered list -->
+# Unordered list
 
 - this an unordered list
 - this an unordered list
@@ -116,6 +126,7 @@ console.log
 - this an unordered list 
 
 <!-- Task List -->
+# Task List 
 - [x] This is a Task list 
 - [x] This is a Task list 
 - [x] This is a Task list 
@@ -124,16 +135,20 @@ console.log
 
 <!-- LINK -->
 <!-- automatic link -->
+# LINK
+# Automatic link 
 https://github.com/zhaoqingqin97/markdown_learning   "This is a automatic Link"
 
 <!-- disable Link -->
-
+# Disable Link
 <!-- this is another disable link -->
 `https://github.com/zhaoqingqin97/markdown_learning` 
 
+# Disable Link 
 [This is a Disable Link not showing the link name////this is by markdown ](http://www.baidu.com)
 
 <!-- link -->
+# Link hide in text 
 [Channel link][youtubeLink]
 
 
@@ -149,23 +164,31 @@ https://github.com/zhaoqingqin97/markdown_learning   "This is a automatic Link"
 
 
 <!-- Image suntax by markdown-->
+# Image syntax by markdown
 ![Image of Hacker](./images/%20Hacker.jpeg)
 
 <!-- html syntax iamge -->
 
+#  html syntax iamge
 <img src="./images/ Hacker.jpeg" width="200" height="150" title="this is iamge">
 
 
 <!-- image by link -->
+# Image by link 
 ![Image of daftpunktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 
 <!-- emoji -->
+# Emoji 
 🪵
+🔥
+✅
+🙂
 
 
 
 <!-- Table -->
+# Tables
 | Tables        | Are           | Cool  | 
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
