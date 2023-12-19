@@ -136,16 +136,16 @@ console.log
 <!-- LINK -->
 <!-- automatic link -->
 # LINK
-# Automatic link 
-https://github.com/zhaoqingqin97/markdown_learning   "This is a automatic Link"
+# Automatic link for Linkedin
+https://bd.linkedin.com/in/rafayat-ahmed-shahin-9a684427b "This is a automatic Link"
 
 <!-- disable Link -->
 # Disable Link
 <!-- this is another disable link -->
-`https://github.com/zhaoqingqin97/markdown_learning` 
+`https://github.com/zhaoqingqin97/markdown_learning](https://www.facebook.com/ra.shahin23` 
 
-# Disable Link 
-[This is a Disable Link not showing the link name////this is by markdown ](http://www.baidu.com)
+# Disable Link for FacebookId
+[This is a Disable Link not showing the link name////this is by markdown ](https://www.facebook.com/ra.shahin23)
 
 <!-- link -->
 # Link hide in text 
@@ -160,6 +160,7 @@ https://github.com/zhaoqingqin97/markdown_learning   "This is a automatic Link"
 
 
 [githubLink]: https://github.com/itshahin11
+
 
 
 
