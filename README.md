@@ -9,8 +9,8 @@ This is New Line
 ---
 
 
-<!-- this is heading like thml <h1>,<h2>.... -->
-# This is heading like thml <h1>,<h2>....
+<!-- this is heading like html <h1>,<h2>.... -->
+# This is heading like html <h1>,<h2>....
 
 # Shahin 
 
